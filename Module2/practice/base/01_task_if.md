@@ -17,7 +17,11 @@
 ```python
 # TODO: you code here...
 ```
-
+num= int(input("Введите число: "))
+if 0 <num //100 <=10:
+	print ("Число трехзначное")
+else:
+	print("Другое")
 ---
 
 ### Подсказки
