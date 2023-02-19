@@ -17,7 +17,13 @@
 ```python
 # TODO: you code here...
 ```
+xa = int(input("xa =  "))
+xb = int(input("xb =  "))
+ya = int(input("ya =  "))
+yb = int(input("yb =  "))
 
+dis = ((xa - xb)**2 + (ya - yb)**2)**0.5
+print(dis)
 ---
 
 ### Подсказки
