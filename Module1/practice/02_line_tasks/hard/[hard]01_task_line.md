@@ -20,7 +20,12 @@
 ```python
 # TODO: you code here...
 ```
-
+h =int(input("Высота шеста:"))
+a =int(input("Подъем:"))
+b =int(input("Спуск:"))
+s = a - b
+t = h//s
+print(t)
 ---
 
 ### Данные для самопроверки
